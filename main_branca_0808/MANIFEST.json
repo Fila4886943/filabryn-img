@@ -1,5 +1,5 @@
 {
- "_LEIA": "O nome do arquivo e a PASTA DO DRIVE, NAO o SKU do canal. Pasta != SKU (ver memoria filabryn-produto-catalogado-por-codigo-nao-por-nome). Preencher sku_canal SEMPRE da fonte viva do canal, nunca do nome do arquivo.",
+ "_LEIA": "O nome do arquivo e a PASTA DO DRIVE, NAO o SKU do canal. Pasta != SKU (ver memoria filabryn-produto-catalogado-por-codigo-nao-por-nome). Preencher sku_canal SEMPRE da fonte viva do canal, nunca do nome do arquivo. | 2 dos 8 estao SEM_LISTING (ROBOTPH, SPINEWINE): URL publicada, produto inexistente — nao incluir em lote.",
  "_gerado": "2026-08-08 por Pluton MELHORIAS",
  "itens": [
   {
@@ -7,56 +7,62 @@
    "produto": "Cable Buddy laranja",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-CUBEE-09.MAIN.jpg",
    "sku_canal": "9V-KWX5-S9EE",
-   "status_sku": "confirmado pelo COO na Amazon"
+   "status_sku": "confirmado por EXECUCAO — MAIN submetida"
   },
   {
    "pasta_drive": "FB-CUBEE-303",
    "produto": "Bat Wall Hanger",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-CUBEE-303.MAIN.jpg",
    "sku_canal": "FB-CUBEE-303",
-   "status_sku": "confirmado pelo COO na Amazon"
+   "status_sku": "confirmado por EXECUCAO — MAIN submetida"
   },
   {
    "pasta_drive": "FB-HD-BOOKSTAND",
    "produto": "Book Stand",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-HD-BOOKSTAND.MAIN.jpg",
-   "sku_canal": null,
-   "status_sku": "NAO confirmado — existe FB-SF-BOOKSTAND tambem"
+   "sku_canal": "FB-HD-BOOKSTAND",
+   "status_sku": "confirmado por EXECUCAO — MAIN submetida",
+   "asin": "B0HBGJDW1N"
   },
   {
    "pasta_drive": "FB-HD-CATPAWCUP",
    "produto": "Cat Paw Cup",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-HD-CATPAWCUP.MAIN.jpg",
-   "sku_canal": null,
-   "status_sku": "variante -WHI ja submetida; conferir o pai"
+   "sku_canal": "FB-HD-CATPAWCUP",
+   "status_sku": "confirmado — ATENCAO: sao 2 SKUs (parent + -WHI). Variacao NAO herda a MAIN do parent",
+   "asin_variacao_WHI": "B0HBCRRQN6",
+   "sku_variacao": "FB-HD-CATPAWCUP-WHI"
   },
   {
    "pasta_drive": "FB-HW-COBRAHP",
    "produto": "King Cobra Headphone Holder",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-HW-COBRAHP.MAIN.jpg",
-   "sku_canal": null,
-   "status_sku": "NAO confirmado — existe FB-SF-COBRAHP tambem"
+   "sku_canal": "FB-HW-COBRAHP",
+   "status_sku": "confirmado — travado em variation type (MASTER)",
+   "asin": "B0HBCRCYQK"
   },
   {
    "pasta_drive": "FB-SF-SPLASHPHO",
    "produto": "Splash Phone Holder",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-SF-SPLASHPHO.MAIN.jpg",
    "sku_canal": "FB-UT-SPLASHPH",
-   "status_sku": "CORRIGIDO — a pasta nao e o SKU"
+   "status_sku": "confirmado por EXECUCAO — MAIN submetida",
+   "asin": "B0HBG8VP6L"
   },
   {
    "pasta_drive": "FB-UT-ROBOHANDPH",
    "produto": "Android Hand Phone Holder",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-UT-ROBOHANDPH.MAIN.jpg",
    "sku_canal": "FB-UT-ROBOTPH",
-   "status_sku": "CORRIGIDO — e o listing esta Missing Information"
+   "status_sku": "⛔ SEM_LISTING — rascunho travado no identificador"
   },
   {
    "pasta_drive": "FB-UT-SPINEWINE",
    "produto": "Spine Wine",
    "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-UT-SPINEWINE.MAIN.jpg",
    "sku_canal": null,
-   "status_sku": "NAO confirmado"
+   "status_sku": "⛔ SEM_LISTING — busca por SKU deu 0-0 of 0; e busca larga por \"wine\" so achou BORDWINE/BEARWINE"
   }
- ]
+ ],
+ "_placar": "6 aplicaveis · 2 sem destino"
 }
