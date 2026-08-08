@@ -1,0 +1,62 @@
+{
+ "_LEIA": "O nome do arquivo e a PASTA DO DRIVE, NAO o SKU do canal. Pasta != SKU (ver memoria filabryn-produto-catalogado-por-codigo-nao-por-nome). Preencher sku_canal SEMPRE da fonte viva do canal, nunca do nome do arquivo.",
+ "_gerado": "2026-08-08 por Pluton MELHORIAS",
+ "itens": [
+  {
+   "pasta_drive": "FB-CUBEE-09",
+   "produto": "Cable Buddy laranja",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-CUBEE-09.MAIN.jpg",
+   "sku_canal": "9V-KWX5-S9EE",
+   "status_sku": "confirmado pelo COO na Amazon"
+  },
+  {
+   "pasta_drive": "FB-CUBEE-303",
+   "produto": "Bat Wall Hanger",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-CUBEE-303.MAIN.jpg",
+   "sku_canal": "FB-CUBEE-303",
+   "status_sku": "confirmado pelo COO na Amazon"
+  },
+  {
+   "pasta_drive": "FB-HD-BOOKSTAND",
+   "produto": "Book Stand",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-HD-BOOKSTAND.MAIN.jpg",
+   "sku_canal": null,
+   "status_sku": "NAO confirmado — existe FB-SF-BOOKSTAND tambem"
+  },
+  {
+   "pasta_drive": "FB-HD-CATPAWCUP",
+   "produto": "Cat Paw Cup",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-HD-CATPAWCUP.MAIN.jpg",
+   "sku_canal": null,
+   "status_sku": "variante -WHI ja submetida; conferir o pai"
+  },
+  {
+   "pasta_drive": "FB-HW-COBRAHP",
+   "produto": "King Cobra Headphone Holder",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-HW-COBRAHP.MAIN.jpg",
+   "sku_canal": null,
+   "status_sku": "NAO confirmado — existe FB-SF-COBRAHP tambem"
+  },
+  {
+   "pasta_drive": "FB-SF-SPLASHPHO",
+   "produto": "Splash Phone Holder",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-SF-SPLASHPHO.MAIN.jpg",
+   "sku_canal": "FB-UT-SPLASHPH",
+   "status_sku": "CORRIGIDO — a pasta nao e o SKU"
+  },
+  {
+   "pasta_drive": "FB-UT-ROBOHANDPH",
+   "produto": "Android Hand Phone Holder",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-UT-ROBOHANDPH.MAIN.jpg",
+   "sku_canal": "FB-UT-ROBOTPH",
+   "status_sku": "CORRIGIDO — e o listing esta Missing Information"
+  },
+  {
+   "pasta_drive": "FB-UT-SPINEWINE",
+   "produto": "Spine Wine",
+   "url": "https://raw.githubusercontent.com/Fila4886943/filabryn-img/main/main_branca_0808/FB-UT-SPINEWINE.MAIN.jpg",
+   "sku_canal": null,
+   "status_sku": "NAO confirmado"
+  }
+ ]
+}
